@@ -8,7 +8,7 @@
 
 ## Git Workflow and Command Line Tips:
 
-* [Tips](tips/README.md)
+* [Tips](https://github.com/gavinmh/GADS12-NYC/tree/master/tips)
 
 
 ## Classes
