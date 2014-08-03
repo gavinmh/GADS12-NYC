@@ -30,7 +30,7 @@ _Tuesday, 2014/08/12_
 #### Class Materials
 
 * [Lecture](https://docs.google.com/presentation/d/1b9bYZ9MIBqEmsJ3x5dBVlwxbSW-v0n-SazICmxh_iwU/edit?usp=sharing)
-* [lab_02.pdf](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab-2.pdf)
+* [lab2.pdf](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab2.pdf)
 * [lab_01b.md](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab-2b.md)
 * [lab_01c.md](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab-2c.md)
 
