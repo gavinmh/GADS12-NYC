@@ -51,3 +51,34 @@ _Tuesday, 2014/08/19_
 _Thursday, 2014/08/21_
 
 #### Class Materials
+
+
+### Lecture 6: From Multiple Linear Regression to Generalized Linear Models
+_Thursday, 2014/08/26_
+
+#### Class Materials
+
+
+### Lecture 7: Non-linear Classification and Regression with K-Nearest Neighbors
+_Thursday, 2014/08/28_
+
+#### Class Materials
+
+
+### Lecture 8: (optional) Machine Learning Review
+_Thursday, 2014/09/02_
+
+#### Class Materials
+
+
+### Lecture 9: Non-linear Classification and Regression with Decision Trees and Ensemble Learning
+_Thursday, 2014/09/04_
+
+#### Class Materials
+
+
+### Lecture 10: Cluster Analysis with K-Means
+_Thursday, 2014/09/09_
+
+#### Class Materials
+
