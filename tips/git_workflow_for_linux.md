@@ -14,7 +14,7 @@ This means /home/*username*
 
 You do not need to fork the [Lectures](https://github.com/gavinmh/GADS12-NYC) repository because **you will never be pushing to the Lectures repository**.
 
-### Clone the datadave Lectures Repository
+### Clone the GADS12-NYC Lectures Repository
 
 	git clone https://github.com/gavinmh/GADS12-NYC.git
 	
@@ -58,9 +58,9 @@ But don't push any changes.
 
 You will fork the [Students](https://github.com/gavinmh/GADS12-NYC-Students) repository so that you have access rights to push changes. This is a standard model used by many git-controlled projects.
 
-### Fork the datadave Students Repository
+### Fork the GADS12-NYC Repository
 
-Log into [GitHub](https://github.com). Browse to the [datadave Students repository](https://github.com/gavinmh/GADS12-NYC-Students). Click the ``Fork`` button near the top right of the page.
+Log into [GitHub](https://github.com). Browse to the [GADS12-NYC Students repository](https://github.com/gavinmh/GADS12-NYC-Students). Click the ``Fork`` button near the top right of the page.
 
 ### Clone Your Forked Repository
 Replace *username* with your GitHub username
@@ -78,7 +78,7 @@ Replace *username* with your GitHub username
 	Resolving deltas: 100% (269/269), done.
 	joe@ubuntu:~$		
 	
-### Add an Upstream Link to datadave
+### Add an Upstream Link to GADS12-NYC
 This step is critical to getting the latest *lab_submissions/lab0x* directories.
 
 	cd GADS12-NYC-Students	
@@ -101,8 +101,8 @@ Note: *git remote -v* will show you where git knows to look for different items.
 	upstream	https://github.com/gavinmh/GADS12-NYC-Students.git (push)
 	joe@ubuntu:~/GADS12-NYC-Students$
 	
-### Merge the Official datadave Updates
-We are going to fetch datadave (*upstream*), which puts the updates in a local branch called *upstream/master*. We'll make sure we are in our master branch, then perform the merge.
+### Merge the Official GADS12-NYC Updates
+We are going to fetch GADS12-NYC (*upstream*), which puts the updates in a local branch called *upstream/master*. We'll make sure we are in our master branch, then perform the merge.
 
 	git fetch upstream
 	git checkout master
