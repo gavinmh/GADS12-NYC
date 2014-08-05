@@ -36,6 +36,6 @@ _Tuesday, 2014/08/12_
 
 
 ### Introduction to scikit-learn
-_Tuesday, 2014/08/14_
+_Thursday, 2014/08/14_
 
 #### Class Materials
