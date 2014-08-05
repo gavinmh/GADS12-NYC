@@ -12,16 +12,16 @@ This means /Users/*username*
 	
 ## Lectures Repository
 
-You do not need to fork the [Lectures](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures) repository because **you will never be pushing to the Lectures repository**.
+You do not need to fork the [Lectures](https://github.com/gavinmh/GADS12-NYC) repository because **you will never be pushing to the Lectures repository**.
 
 ### Clone the datadave Lectures Repository
 
-	git clone https://github.com/datadave/GADS9-NYC-Spring2014-Lectures.git
+	git clone https://github.com/gavinmh/GADS12-NYC.git
 
 **Example**:
 
-	mymac:~ joe$ git clone https://github.com/datadave/GADS9-NYC-Spring2014-	Lectures.git
-	Cloning into 'GADS9-NYC-Spring2014-Lectures'...
+	mymac:~ joe$ git clone https://github.com/gavinmh/GADS12-NYC.git
+	Cloning into 'GADS12-NYC'...
 	remote: Counting objects: 824, done.
 	remote: Compressing objects: 100% (432/432), done.
 	remote: Total 824 (delta 360), reused 716 (delta 298)
@@ -31,17 +31,17 @@ You do not need to fork the [Lectures](https://github.com/datadave/GADS9-NYC-Spr
 	
 ### Update For Every Class
 
-	cd GADS9-NYC-Spring2014-Lectures
+	cd GADS12-NYC
 	git pull origin master
 
 **Example:**
 
-	mymac:~ joe$ cd GADS9-NYC-Spring2014-Lectures/
-	mymac:GADS9-NYC-Spring2014-Lectures joe$ git pull origin master
-	From https://github.com/datadave/GADS9-NYC-Spring2014-Lectures
+	mymac:~ joe$ cd GADS12-NYC
+	mymac:GADS12-NYC joe$ git pull origin master
+	From https://github.com/gavinmh/GADS12-NYC
 	 * branch            master     -> FETCH_HEAD
 	Already up-to-date.
-	mymac:GADS9-NYC-Spring2014-Lectures joe$
+	mymac:GADS12-NYC joe$
 	
 ### Change Directory to the Current Lesson
 
@@ -50,7 +50,7 @@ You do not need to fork the [Lectures](https://github.com/datadave/GADS9-NYC-Spr
 	
 **Example:**
 	
-	mymac:GADS9-NYC-Spring2014-Lectures joe$ cd lessons/
+	mymac:GADS12-NYC joe$ cd lessons/
 	mymac:lessons joe$ ls
 	README.md                               lesson02_data_collection_and_extraction 	lesson03b_pandas
 	lesson01_intro_to_data_science          lesson03a_numpy                         	lesson04_matplotlib_and_EDA
