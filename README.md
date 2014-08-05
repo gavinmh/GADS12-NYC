@@ -13,7 +13,7 @@
 
 ## Classes
 
-### Introduction to Data Science
+### Lecture 1: Introduction to Data Science
 _Thursday, 2014/08/07_
 
 #### Class Materials
@@ -24,7 +24,7 @@ _Thursday, 2014/08/07_
 * [lab_01b.md](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-1/lab-1b.md)
 
 
-### Simple Linear Regression
+### Lecture 2: Simple Linear Regression
 _Tuesday, 2014/08/12_
 
 #### Class Materials
@@ -35,7 +35,19 @@ _Tuesday, 2014/08/12_
 * [lab_01c.md](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab-2c.md)
 
 
-### Introduction to scikit-learn
+### Lecture 3: Introduction to scikit-learn
 _Thursday, 2014/08/14_
+
+#### Class Materials
+
+
+### Lecture 4: From Simple Linear Regression to Multiple Linear Regression
+_Tuesday, 2014/08/19_
+
+#### Class Materials
+
+
+### Lecture 5: From Multiple Linear Regression to Polynomial Regression
+_Thursday, 2014/08/21_
 
 #### Class Materials
