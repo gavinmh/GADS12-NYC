@@ -77,8 +77,8 @@ Now we can get this data into some usable format--
 
 ```sh
 chmod +x ./nytimes_parser.py
-./nytimes_parser.py > nytimes.csv
-less nytimes.csv
+./nytimes_parser.py malaysia_articles.json parsed_articles.csv
+less parsed_articles.csv
 ```
 
 ###In Class
