@@ -62,10 +62,10 @@ pip install ggplot
 
 ## Lab Submissions
 
-in `GADS12-NYC/lab_submissions/lab01`, make a directory with your first namne and last name.
+in `GADS12-NYC-Students/lab_submissions/lab01`, make a directory with your first name and last name.
 
 ```sh
-DIR='firstname_lastname'; cd ~/GADS12-NYC/lab_submissions/lab01; mkdir $DIR; open $DIR
+DIR='firstname_lastname'; cd ~/GADS12-NYC-Students/lab_submissions/lab01; mkdir $DIR; open $DIR
 ```
 
 With a text or markdown editor, create and save a markdown file with the following content:
