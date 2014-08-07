@@ -9,7 +9,7 @@
 
 ## Debian-based (Ubuntu, Mint, CrunchBang) Installation
 
-```apt-get install python git python-pip ipython ipython-notebook
+```apt-get install python git python-pip ipython ipython-notebook  
 pip install -U scikit-learn pandas matplotlib```
 
 
