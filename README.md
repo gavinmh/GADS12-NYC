@@ -49,7 +49,7 @@ The image has the following libraries installed on it:
 * [nltk] (v 2.0.4)
 
 
-#####  Git Repository
+#####  Git Repository in VM image
 
 The class's git repo has been cloned as the following directory:
 
