@@ -28,7 +28,7 @@ From the github help page:
 > The Fork & Pull Model lets anyone fork an existing repository and push changes to their personal fork without requiring access be granted to the source repository. The changes must then be pulled into the source repository by the project maintainer.
 
 ```sh
-cd ~/; git clone git@github.com:<your github username>/GADS12-NYC.git
+cd ~/; git clone git@github.com/<your github username>/GADS12-NYC.git
 ```
 
 For example:
