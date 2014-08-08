@@ -4,7 +4,7 @@
 `Homebrew` is a mac installer for packages/libraries/etc that works alongside Apple's installers. We need it for git. Install oneliner:
 
 ```sh
-ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
 ```
 
 If you recieve an SSL certificate error:
@@ -62,7 +62,7 @@ pip install ggplot
 
 ## Lab Submissions
 
-in `GADS12-NYC-Students/lab_submissions/lab01`, make a directory with your first name and last name.
+Make the directory `GADS12-NYC-Students/lab_submissions/lab01`. Make a directory with your first name and last name.
 
 ```sh
 DIR='firstname_lastname'; cd ~/GADS12-NYC-Students/lab_submissions/lab01; mkdir $DIR; open $DIR
