@@ -1,5 +1,9 @@
 # General Assembly Data Science 12
 
+## Contact Information
+
+* [Gavin Hackeling](mailto:gmh283@nyu.edu)
+
 
 ## Questions and Discussions:
 
