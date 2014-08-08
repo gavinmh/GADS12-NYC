@@ -10,7 +10,7 @@ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
 If you recieve an SSL certificate error:
 
 ```sh
-ruby -e "$(curl --insecure -fsSL https://raw.github.com/mxcl/homebrew/go)"
+ruby -e "$(curl --insecure -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
 ```
 
 ## Installing `git`
