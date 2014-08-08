@@ -2,7 +2,9 @@
 
 ## Contact Information
 
-* [Gavin Hackeling](mailto:gmh283@nyu.edu)
+* Gavin Hackeling: [gmh283@nyu.edu](mailto:gmh283@nyu.edu)
+* James Beveridge: [jamesbev@gmail.com](jamesbev@gmail.com)
+* Shawn Oakley:[shawnoakley@gmail.com](mailto:shawnoakley@gmail.com)
 
 
 ## Questions and Discussions:
