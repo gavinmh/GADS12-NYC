@@ -33,7 +33,7 @@ cd ~/; git clone git@github.com/gavinmh/GADS12-NYC.git
 
 For example:
 ```sh
-cd ~/; git clone git@github.com:datadave/GADS12-NYC.git
+cd ~/; git clone git@github.com/gavinmh/GADS12-NYC.git
 ```
 
 ## `python`
