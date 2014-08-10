@@ -93,9 +93,9 @@ _Tuesday, 2014/08/12_
 #### Class Materials
 
 * [Lecture](https://docs.google.com/presentation/d/1b9bYZ9MIBqEmsJ3x5dBVlwxbSW-v0n-SazICmxh_iwU/edit?usp=sharing)
-* [lab2.pdf](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab2.pdf)
-* [lab_01b.md](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab-2b.md)
-* [lab_01c.md](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab-2c.md)
+* [simple-linear-regression-lab.pdf](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/simple-linear-regression-lab.pdf)
+* [python-lab.ipynb](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/python-lab.ipynb)
+* [numpy-lab.ipynb](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/numpy-lab.ipynb)
 
 
 ### Lecture 3: Introduction to scikit-learn
