@@ -98,10 +98,14 @@ _Tuesday, 2014/08/12_
 * [numpy-lab.ipynb](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/numpy-lab.ipynb)
 
 
-### Lecture 3: Introduction to scikit-learn
+### Lecture 3: Introduction to scikit-learn, pandas and matplotlib
 _Thursday, 2014/08/14_
 
 #### Class Materials
+
+* [Lecture](https://docs.google.com/presentation/d/1nzGQyOeE-kkv5SUXrBfSgBD_s4FaFeY1GekmqjqgQbE/edit?usp=sharing)
+*
+*
 
 
 ### Lecture 4: From Simple Linear Regression to Multiple Linear Regression
@@ -109,12 +113,18 @@ _Tuesday, 2014/08/19_
 
 #### Class Materials
 
+* [Lecture](https://docs.google.com/presentation/d/11QwBL5HggOPv5VBLLyCjVGu1C41nLxTEEJXNrFWWwb8/edit)
+*
+*
 
 ### Lecture 5: From Multiple Linear Regression to Polynomial Regression
 _Thursday, 2014/08/21_
 
 #### Class Materials
 
+* [Lecture](https://docs.google.com/presentation/d/1evOrh5fxjUlr6F5zErzO_-Fc1Fo-s-T-0XxNeS8ZJiU/edit?usp=sharing)
+*
+*
 
 ### Lecture 6: From Multiple Linear Regression to Generalized Linear Models
 _Thursday, 2014/08/26_
