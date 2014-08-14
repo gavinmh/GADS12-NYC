@@ -112,13 +112,13 @@ _Thursday, 2014/08/14_
 * [independent_work.md](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
 
 
-### Lecture 4: From Multiple Linear Regression to Polynomial Regression
+### Lecture 4: From Multiple Linear Regression to Polynomial Regression & Intro to matplotlib
 _Tuesday, 2014/08/19_
 
 #### Class Materials
 
 
-### Lecture 5: 
+### Lecture 5: From Multiple Linear Regression to Logistic Regression & Text Feature Extraction
 _Thursday, 2014/08/21_
 
 #### Class Materials
@@ -126,20 +126,20 @@ _Thursday, 2014/08/21_
 *
 *
 
-### Lecture 6: 
-_Thursday, 2014/08/26_
+### Lecture 6: Regression Review, Project Work Day
+_Tuesday, 2014/08/26_
 
 #### Class Materials
 
 
-### Lecture 7: Non-linear Classification and Regression with K-Nearest Neighbors
+### Lecture 7: Non-linear Classification and Regression with K-Nearest Neighbors & Image Feature Extraction
 _Thursday, 2014/08/28_
 
 #### Class Materials
 
 
-### Lecture 8: (optional) Machine Learning Review
-_Thursday, 2014/09/02_
+### Lecture 8: (optional class) Kaggle Competitions
+_Tuesday, 2014/09/02_
 
 #### Class Materials
 
@@ -151,7 +151,13 @@ _Thursday, 2014/09/04_
 
 
 ### Lecture 10: Cluster Analysis with K-Means
-_Thursday, 2014/09/09_
+_Tuesday, 2014/09/09_
+
+#### Class Materials
+
+
+### Lecture 11: Dimensionality Reduction with Principal Component Analysis
+_Thursday, 2014/09/11_
 
 #### Class Materials
 
