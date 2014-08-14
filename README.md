@@ -109,7 +109,7 @@ _Thursday, 2014/08/14_
 * [lecture_3_intro_to_sklearn.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
 * [lab_3a.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
 * [lab_3_multiple_linear_regression.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
-* [](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
+* [independent_work.md](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
 
 
 ### Lecture 4: From Multiple Linear Regression to Polynomial Regression
