@@ -104,32 +104,42 @@ _Thursday, 2014/08/14_
 #### Class Materials
 
 * [Lecture](https://docs.google.com/presentation/d/1nzGQyOeE-kkv5SUXrBfSgBD_s4FaFeY1GekmqjqgQbE/edit?usp=sharing)
-* [lecture_3_pandas_intro.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
 * [lecture_3_numpy_review.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
 * [lecture_3_intro_to_sklearn.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
-* [lab_3a.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
 * [lab_3_multiple_linear_regression.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
-* [independent_work.md](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
 
 
-### Lecture 4: From Multiple Linear Regression to Polynomial Regression & Intro to matplotlib
+### Lecture 4: Introduction to pandas & matplotlib, Multiple Linear Regression Review
+From Multiple Linear Regression to Polynomial Regression & Intro to matplotlib
 _Tuesday, 2014/08/19_
 
 #### Class Materials
 
+* [Lecture]()
+* [lecture_3_pandas_intro.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
+* [lab_3a.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
+* [independent_work.md](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
+* [Project 1: Regression]()
 
-### Lecture 5: From Multiple Linear Regression to Logistic Regression & Text Feature Extraction
-_Thursday, 2014/08/21_
+
+### Lecture 5: From Multiple Linear Regression to Polynomial Regression & Regression Project Workshop
+_Tuesday, 2014/08/19_
 
 #### Class Materials
 
+* [Lecture]()
 *
 *
 
-### Lecture 6: Regression Review, Project Work Day
+
+### Lecture 6: From Multiple Linear Regression to Logistic Regression & Text Feature Extraction
 _Tuesday, 2014/08/26_
 
 #### Class Materials
+
+* [Lecture]()
+*
+*
 
 
 ### Lecture 7: Non-linear Classification and Regression with K-Nearest Neighbors & Image Feature Extraction
