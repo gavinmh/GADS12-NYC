@@ -93,43 +93,63 @@ _Tuesday, 2014/08/12_
 #### Class Materials
 
 * [Lecture](https://docs.google.com/presentation/d/1b9bYZ9MIBqEmsJ3x5dBVlwxbSW-v0n-SazICmxh_iwU/edit?usp=sharing)
-* [lab2.pdf](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab2.pdf)
-* [lab_01b.md](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab-2b.md)
-* [lab_01c.md](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/lab-2c.md)
+* [simple-linear-regression-lab.pdf](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/simple-linear-regression-lab.pdf)
+* [python-lab.ipynb](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/python-lab.ipynb)
+* [numpy-lab.ipynb](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-2/numpy-lab.ipynb)
 
 
-### Lecture 3: Introduction to scikit-learn
+### Lecture 3: From Simple Linear Regression to Multiple Linear Regression & an Introduction to scikit-learn
 _Thursday, 2014/08/14_
 
 #### Class Materials
 
+* [Lecture](https://docs.google.com/presentation/d/1nzGQyOeE-kkv5SUXrBfSgBD_s4FaFeY1GekmqjqgQbE/edit?usp=sharing)
+* [lecture_3_numpy_review.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
+* [lecture_3_intro_to_sklearn.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
+* [lab_3_multiple_linear_regression.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
 
-### Lecture 4: From Simple Linear Regression to Multiple Linear Regression
+
+### Lecture 4: Introduction to pandas & matplotlib, Multiple Linear Regression Review
+From Multiple Linear Regression to Polynomial Regression & Intro to matplotlib
 _Tuesday, 2014/08/19_
 
 #### Class Materials
 
+* [Lecture]()
+* [lecture_3_pandas_intro.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
+* [lab_3a.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
+* [independent_work.md](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
+* [Project 1: Regression]()
 
-### Lecture 5: From Multiple Linear Regression to Polynomial Regression
-_Thursday, 2014/08/21_
+
+### Lecture 5: From Multiple Linear Regression to Polynomial Regression & Regression Project Workshop
+_Tuesday, 2014/08/19_
 
 #### Class Materials
 
+* [Lecture]()
+*
+*
 
-### Lecture 6: From Multiple Linear Regression to Generalized Linear Models
-_Thursday, 2014/08/26_
+
+### Lecture 6: From Multiple Linear Regression to Logistic Regression & Text Feature Extraction
+_Tuesday, 2014/08/26_
 
 #### Class Materials
 
+* [Lecture]()
+*
+*
 
-### Lecture 7: Non-linear Classification and Regression with K-Nearest Neighbors
+
+### Lecture 7: Non-linear Classification and Regression with K-Nearest Neighbors & Image Feature Extraction
 _Thursday, 2014/08/28_
 
 #### Class Materials
 
 
-### Lecture 8: (optional) Machine Learning Review
-_Thursday, 2014/09/02_
+### Lecture 8: (optional class) Kaggle Competitions
+_Tuesday, 2014/09/02_
 
 #### Class Materials
 
@@ -141,7 +161,13 @@ _Thursday, 2014/09/04_
 
 
 ### Lecture 10: Cluster Analysis with K-Means
-_Thursday, 2014/09/09_
+_Tuesday, 2014/09/09_
+
+#### Class Materials
+
+
+### Lecture 11: Dimensionality Reduction with Principal Component Analysis
+_Thursday, 2014/09/11_
 
 #### Class Materials
 
