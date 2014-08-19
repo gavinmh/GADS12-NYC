@@ -115,11 +115,17 @@ _Tuesday, 2014/08/19_
 
 #### Class Materials
 
-* [Lecture]()
-* [lecture_3_pandas_intro.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
-* [lab_3a.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
-* [independent_work.md](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-3)
-* [Project 1: Regression]()
+* [Lecture](https://docs.google.com/presentation/d/11QwBL5HggOPv5VBLLyCjVGu1C41nLxTEEJXNrFWWwb8/edit?usp=drive_web)
+* [multiple_linear_regression_review.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-4)
+* [object_oriented_programming_lab.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-4)
+* [matplotlib_intro_lecture.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-4)
+* [pandas_intro_lecture.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-4)
+* [pandas_lab.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-4)
+
+
+#### Project 1
+
+* [Project 1: Regression](https://github.com/gavinmh/GADS12-NYC/blob/master/lecture-4/project-1-regression.md)
 
 
 ### Lecture 5: From Multiple Linear Regression to Polynomial Regression & Regression Project Workshop
