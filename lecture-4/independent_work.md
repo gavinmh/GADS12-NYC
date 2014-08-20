@@ -20,6 +20,12 @@ For example, you can phrase this like:
 
 7. Sort the data frame by each column (aside from Name), and print the results of each. What interesting trends exist in this data set, based on distributions?
 
-**8**. write several functions to apply to the data frame that attempt to organize the data set using strings instead of floats, like our short_or_long function from lecture. Use this to best summarize your data.
+**8**. write several functions like the following to apply to the data frame that represent the data set using strings instead of floats. Use this to summarize your data.
+
+  def short_or_long(x): 
+   if x > 4: 
+     return 'long' 
+   else: 
+     return 'short'
 
 **9**. CHALLENGE QUESTION: From everything above, you should be able to predict relatively accurately for each row what kind of flower it is (without using the Name column as an obvious hint). Write a function that uses the data with if and else statements to attempt to classify each row.
