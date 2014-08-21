@@ -73,7 +73,11 @@ _Tuesday, 2014/08/19_
 
 * [Lecture](https://docs.google.com/presentation/d/1NZJv9sgmbFivNMt7X-faPrnGTNri_g4C6soWKzvsUvQ/edit?usp=sharing)
 * [PolynomialRegressionAndRegularization.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-5)
-* [matplotlib_intro_lecture.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-5)
+* [intro_to_matplotlib.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-5)
+
+#### Extra Materials
+
+* [matplotlib_examples.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-5)
 
 
 ### Lecture 6: From Multiple Linear Regression to Logistic Regression & Text Feature Extraction
