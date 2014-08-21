@@ -119,6 +119,70 @@ _Thursday, 2014/09/11_
 #### Class Materials
 
 
+### Lecture 12: Competitions/Project Workday
+_Thursday, 2014/09/11_
+
+#### Class Materials
+
+
+### Lecture 13: SQL and NoSQL
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 14: Munging with CoreUtils
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 15: The Perceptron
+_Thursday, 2014/09/18_
+
+#### Class Materials
+
+
+### Lecture 16: From the Perceptron to Support Vector Machines
+_Thursday, 2014/09/11_
+
+#### Class Materials
+
+
+### Lecture 17: From the Perceptron to Artificial Neural Networks
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 18: 
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 19: 
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 20: 
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 20: The Final Project Presentations
+_Thursday, 2014/10/16_
+
+#### Class Materials
+
+
+### Lecture 21: Final Project Presentations
+_Thursday, 2014/10/21_
+
+#### Class Materials
 
 
 ## Git Workflow and Command Line Tips:
