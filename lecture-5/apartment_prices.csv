@@ -1,0 +1,8 @@
+price,size,num_bedrooms,age,city
+2500,500,1,1,"New York"
+2400,600,1,40,"New York"
+900,800,2,2,"Chapel Hill"
+1700,400,0,10,"New York"
+2100,450,0,25,"New York"
+3000,900,2,5,"New York"
+700,700,1,6,"Chapel Hill"
