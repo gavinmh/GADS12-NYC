@@ -85,8 +85,8 @@ _Tuesday, 2014/08/26_
 
 #### Class Materials
 
-* [Lecture]()
-
+* [Lecture](https://docs.google.com/presentation/d/1evOrh5fxjUlr6F5zErzO_-Fc1Fo-s-T-0XxNeS8ZJiU/edit?usp=sharing)
+* [document_classification.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-6)
 
 
 ### Lecture 7: Non-linear Classification and Regression with K-Nearest Neighbors & Image Feature Extraction
