@@ -9,7 +9,7 @@ Your assignment is to apply these models to a regression problem.
 
 __Due Tuesday, 2014/08/26__
 
-Find a regression problem that interests you. Many data sets for regression problems can be found at the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table). You can also browse past [Kaggle.com](http://kaggle.com) competitions. You may also use or collect a different data set if none of these interest you.
+Find a regression problem that interests you. Many data sets for regression problems can be found at the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table) ([mirror](http://mlr.cs.umass.edu/ml/datasets.html)). You can also browse past [Kaggle.com](http://kaggle.com) competitions. You may also use or collect a different data set if none of these interest you.
 
 Describe the problem, the response variable, and the explanatory variables. How could you represent the explanatory variables as features?
 

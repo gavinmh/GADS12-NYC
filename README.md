@@ -73,7 +73,11 @@ _Tuesday, 2014/08/19_
 
 * [Lecture](https://docs.google.com/presentation/d/1NZJv9sgmbFivNMt7X-faPrnGTNri_g4C6soWKzvsUvQ/edit?usp=sharing)
 * [PolynomialRegressionAndRegularization.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-5)
-* [matplotlib_intro_lecture.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-5)
+* [intro_to_matplotlib.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-5)
+
+#### Extra Materials
+
+* [matplotlib_examples.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-5)
 
 
 ### Lecture 6: From Multiple Linear Regression to Logistic Regression & Text Feature Extraction
@@ -115,6 +119,70 @@ _Thursday, 2014/09/11_
 #### Class Materials
 
 
+### Lecture 12: Competitions/Project Workday
+_Thursday, 2014/09/11_
+
+#### Class Materials
+
+
+### Lecture 13: SQL and NoSQL
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 14: Munging with CoreUtils
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 15: The Perceptron
+_Thursday, 2014/09/18_
+
+#### Class Materials
+
+
+### Lecture 16: From the Perceptron to Support Vector Machines
+_Thursday, 2014/09/11_
+
+#### Class Materials
+
+
+### Lecture 17: From the Perceptron to Artificial Neural Networks
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 18: 
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 19: 
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 20: 
+_Thursday, 2014/09/16_
+
+#### Class Materials
+
+
+### Lecture 20: The Final Project Presentations
+_Thursday, 2014/10/16_
+
+#### Class Materials
+
+
+### Lecture 21: Final Project Presentations
+_Thursday, 2014/10/21_
+
+#### Class Materials
 
 
 ## Git Workflow and Command Line Tips:
