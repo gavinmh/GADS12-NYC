@@ -89,10 +89,12 @@ _Tuesday, 2014/08/26_
 * [document_classification.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-6)
 
 
-### Lecture 7: Non-linear Classification and Regression with K-Nearest Neighbors & Image Feature Extraction
+### Lecture 7: Classification with Logistic Regression and K-Nearest Neighbors
 _Thursday, 2014/08/28_
 
 #### Class Materials
+* [Lecture](https://docs.google.com/presentation/d/1ibefIZ1XHUnlI7BIAQdoqUxlU-Ayxi1p7k2tPtZyVVM/edit?usp=sharing)
+* [k_nearest_neighbors_classification.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-7)
 
 
 ### Lecture 8: (optional class) Kaggle Competitions
