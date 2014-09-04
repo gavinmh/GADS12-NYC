@@ -108,6 +108,9 @@ _Thursday, 2014/09/04_
 
 #### Class Materials
 
+* [Lecture](https://docs.google.com/presentation/d/1TF6iAGHDrIKs3kN-smIWGdxIFUzwXRVK5Zj9GQvVz0E/edit?usp=sharing)
+* [decision_trees.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-9)
+
 
 ### Lecture 10: Cluster Analysis with K-Means
 _Tuesday, 2014/09/09_
@@ -175,7 +178,7 @@ _Thursday, 2014/09/16_
 #### Class Materials
 
 
-### Lecture 20: The Final Project Presentations
+### Lecture 20: Final Project Presentations
 _Thursday, 2014/10/16_
 
 #### Class Materials
