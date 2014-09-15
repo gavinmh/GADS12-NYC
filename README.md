@@ -67,7 +67,7 @@ _Tuesday, 2014/08/19_
 
 
 ### Lecture 5: From Multiple Linear Regression to Polynomial Regression & Regression Project Workshop
-_Tuesday, 2014/08/19_
+_Tuesday, 2014/08/21_
 
 #### Class Materials
 
@@ -133,7 +133,7 @@ _Thursday, 2014/09/11_
 
 
 ### Lecture 12: Review/Project Workday
-_Thursday, 2014/09/11_
+_Thursday, 2014/09/16_
 
 #### Class Materials
 
@@ -141,7 +141,7 @@ _Thursday, 2014/09/11_
 
 
 ### Lecture 13: The Perceptron 
-_Thursday, 2014/09/16_
+_Thursday, 2014/09/18_
 
 #### Class Materials
 
@@ -149,43 +149,43 @@ _Thursday, 2014/09/16_
 
 
 ### Lecture 14: From the Perceptron to Support Vector Machines
-_Thursday, 2014/09/16_
+_Thursday, 2014/09/23_
 
 #### Class Materials
 
 
 ### Lecture 15: From the Perceptron to Artificial Neural Networks
-_Thursday, 2014/09/18_
+_Thursday, 2014/09/25_
 
 #### Class Materials
 
 
 ### Lecture 16: Elective 1
-_Thursday, 2014/09/11_
+_Thursday, 2014/09/30_
 
 #### Class Materials
 
 
 ### Lecture 17: Elective 2
-_Thursday, 2014/09/16_
+_Thursday, 2014/10/02_
 
 #### Class Materials
 
 
 ### Lecture 18: Guest Lecture 1
-_Thursday, 2014/09/16_
+_Thursday, 2014/10/07_
 
 #### Class Materials
 
 
 ### Lecture 19: Guest Lecture 2
-_Thursday, 2014/09/16_
+_Thursday, 2014/10/09_
 
 #### Class Materials
 
 
 ### Lecture 20: Final Project Workday
-_Thursday, 2014/09/16_
+_Thursday, 2014/10/14_
 
 #### Class Materials
 
