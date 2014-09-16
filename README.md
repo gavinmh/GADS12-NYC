@@ -67,7 +67,7 @@ _Tuesday, 2014/08/19_
 
 
 ### Lecture 5: From Multiple Linear Regression to Polynomial Regression & Regression Project Workshop
-_Tuesday, 2014/08/19_
+_Tuesday, 2014/08/21_
 
 #### Class Materials
 
@@ -117,63 +117,75 @@ _Tuesday, 2014/09/09_
 
 #### Class Materials
 
+* [Lecture](https://docs.google.com/presentation/d/1-URWRvKe9ecwQiH3U639NzDORjnXE27MA4fVb6APbIY/edit)
+* [elbow-method-solutions.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-10)
+* [semi-supervised-classification.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-10)
+
 
 ### Lecture 11: Dimensionality Reduction with Principal Component Analysis
 _Thursday, 2014/09/11_
 
 #### Class Materials
 
-
-### Lecture 12: Competitions/Project Workday
-_Thursday, 2014/09/11_
-
-#### Class Materials
+* [Lecture](https://docs.google.com/presentation/d/1xcR9NX7spBurDak-Vzy3tlv08B_9LiHOBhAOr6xKK_Y/edit#slide=id.g3aa599f3c_3483)
+* [eigenfaces.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-11)
+* [iris-reduction.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-11)
 
 
-### Lecture 13: SQL and NoSQL
+### Lecture 12: Review/Project Workday
 _Thursday, 2014/09/16_
 
 #### Class Materials
 
-
-### Lecture 14: Munging with CoreUtils
-_Thursday, 2014/09/16_
-
-#### Class Materials
+* [Lecture](https://docs.google.com/presentation/d/1WwoIrnmfq5Zd7BFg7kIdU4hvTJfy3gUKMYdfTaB0E8s/edit?usp=sharing)
 
 
-### Lecture 15: The Perceptron
+### Lecture 13: The Perceptron 
 _Thursday, 2014/09/18_
 
 #### Class Materials
 
-
-### Lecture 16: From the Perceptron to Support Vector Machines
-_Thursday, 2014/09/11_
-
-#### Class Materials
+* [Lecture](https://docs.google.com/presentation/d/1YpLHCrr_vkXvq-2Pa5Snd1YDfBylexP22vJuDKf5wsU/edit?usp=sharing)
 
 
-### Lecture 17: From the Perceptron to Artificial Neural Networks
-_Thursday, 2014/09/16_
+### Lecture 14: From the Perceptron to Support Vector Machines
+_Thursday, 2014/09/23_
 
 #### Class Materials
 
 
-### Lecture 18: 
-_Thursday, 2014/09/16_
+### Lecture 15: From the Perceptron to Artificial Neural Networks
+_Thursday, 2014/09/25_
 
 #### Class Materials
 
 
-### Lecture 19: 
-_Thursday, 2014/09/16_
+### Lecture 16: Elective 1
+_Thursday, 2014/09/30_
 
 #### Class Materials
 
 
-### Lecture 20: 
-_Thursday, 2014/09/16_
+### Lecture 17: Elective 2
+_Thursday, 2014/10/02_
+
+#### Class Materials
+
+
+### Lecture 18: Guest Lecture 1
+_Thursday, 2014/10/07_
+
+#### Class Materials
+
+
+### Lecture 19: Guest Lecture 2
+_Thursday, 2014/10/09_
+
+#### Class Materials
+
+
+### Lecture 20: Final Project Workday
+_Thursday, 2014/10/14_
 
 #### Class Materials
 
