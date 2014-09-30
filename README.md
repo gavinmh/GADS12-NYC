@@ -132,7 +132,7 @@ _Thursday, 2014/09/11_
 * [iris-reduction.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-11)
 
 
-### Lecture 12: Review/Project Workday
+### Lecture 12: Machine Learning Review
 _Thursday, 2014/09/16_
 
 #### Class Materials
@@ -140,64 +140,78 @@ _Thursday, 2014/09/16_
 * [Lecture](https://docs.google.com/presentation/d/1WwoIrnmfq5Zd7BFg7kIdU4hvTJfy3gUKMYdfTaB0E8s/edit?usp=sharing)
 
 
-### Lecture 13: The Perceptron 
+### Lecture 13: Project Workday
 _Thursday, 2014/09/18_
 
 #### Class Materials
 
-* [Lecture](https://docs.google.com/presentation/d/1YpLHCrr_vkXvq-2Pa5Snd1YDfBylexP22vJuDKf5wsU/edit?usp=sharing)
+* [Lecture](https://docs.google.com/presentation/d/1WwoIrnmfq5Zd7BFg7kIdU4hvTJfy3gUKMYdfTaB0E8s/edit?usp=sharing)
 
 
-### Lecture 14: From the Perceptron to Support Vector Machines
+### Lecture 14: The Perceptron 
 _Thursday, 2014/09/23_
 
 #### Class Materials
 
+* [Lecture](https://docs.google.com/presentation/d/1YpLHCrr_vkXvq-2Pa5Snd1YDfBylexP22vJuDKf5wsU/edit?usp=sharing)
+* [document_classification_2.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-14)
 
-### Lecture 15: From the Perceptron to Artificial Neural Networks
+### No class
 _Thursday, 2014/09/25_
 
-#### Class Materials
 
-
-### Lecture 16: Elective 1
-_Thursday, 2014/09/30_
+### Lecture 15: From the Perceptron to Support Vector Machines
+_Thursday, 2014/09/29_
 
 #### Class Materials
 
-
-### Lecture 17: Elective 2
+* [Lecture](https://docs.google.com/presentation/d/1U8roNE3xY-35u0uT9Nm_0snrNKK-LrHlYzL0RYPWzhI/edit?usp=sharing)
+* [natural_image_character_recognition.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-15)
+* 
+### Lecture 16: From the Perceptron to Artificial Neural Networks
 _Thursday, 2014/10/02_
 
 #### Class Materials
 
 
-### Lecture 18: Guest Lecture 1
+### Lecture 17: Elective 1
 _Thursday, 2014/10/07_
 
 #### Class Materials
 
 
-### Lecture 19: Guest Lecture 2
+### Lecture 18: Elective 2
+_Thursday, 2014/10/02_
+
+#### Class Materials
+
+
+### Lecture 19: Guest Lecture 1
 _Thursday, 2014/10/09_
 
 #### Class Materials
 
 
-### Lecture 20: Final Project Workday
+### Lecture 20: Guest Lecture 2: Visualization with D3.js
 _Thursday, 2014/10/14_
 
 #### Class Materials
 
 
-### Lecture 20: Final Project Presentations
+### Lecture 21: Final Project Workday
 _Thursday, 2014/10/16_
 
 #### Class Materials
 
 
-### Lecture 21: Final Project Presentations
+### Lecture 22: Final Project Presentations
 _Thursday, 2014/10/21_
+
+#### Class Materials
+
+
+### Lecture 23: Final Project Presentations
+_Thursday, 2014/10/23_
 
 #### Class Materials
 
