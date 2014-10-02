@@ -173,6 +173,10 @@ _Thursday, 2014/10/02_
 
 #### Class Materials
 
+* [Lecture](https://docs.google.com/presentation/d/1KCo4Y5v89M1XJDyrOEnxtgTnROBE5F5vQoLZZo9USpU/edit?usp=sharing)
+* [mlp_xor.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-16)
+* [mlp_mnist.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-16)
+
 
 ### Lecture 17: Elective 1
 _Thursday, 2014/10/07_
