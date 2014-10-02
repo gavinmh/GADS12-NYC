@@ -167,7 +167,8 @@ _Thursday, 2014/09/29_
 
 * [Lecture](https://docs.google.com/presentation/d/1U8roNE3xY-35u0uT9Nm_0snrNKK-LrHlYzL0RYPWzhI/edit?usp=sharing)
 * [natural_image_character_recognition.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-15)
-* 
+
+
 ### Lecture 16: From the Perceptron to Artificial Neural Networks
 _Thursday, 2014/10/02_
 
