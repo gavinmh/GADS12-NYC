@@ -179,13 +179,17 @@ _Thursday, 2014/10/02_
 * [mlp_mnist.ipynb](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-16)
 
 
-### Lecture 17: Elective 1
+### Lecture 17: Web Apps with scikit-learn
 _Thursday, 2014/10/07_
 
 #### Class Materials
 
+* [Lecture](https://docs.google.com/presentation/d/11SdNjR-f7DxTii6h9-oHNWILiFPy0CCFCxOLCT24my8/edit?usp=sharing)
+* [Lab](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-17)
 
-### Lecture 18: Elective 2
+
+
+### Lecture 18: Recommendation Engines
 _Thursday, 2014/10/02_
 
 #### Class Materials
