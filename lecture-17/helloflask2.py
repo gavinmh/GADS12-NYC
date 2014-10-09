@@ -10,9 +10,9 @@ app = Flask(__name__)
 # Update the decorator to include a placeholder
 # for a URL path parameter called name that is
 # the type string.
-@app.route('/')
-def hello_flask():
-    return 'Hello Flask!'
+@app.route('/<string:name>')
+def hello_flask(name):
+    return 'Hello %s' % name
 
 if __name__ == '__main__':
     app.debug = True
