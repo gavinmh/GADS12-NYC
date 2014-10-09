@@ -188,11 +188,13 @@ _Thursday, 2014/10/07_
 * [Lab](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-17)
 
 
-
 ### Lecture 18: Recommendation Engines
 _Thursday, 2014/10/02_
 
 #### Class Materials
+
+* [Lecture](https://docs.google.com/presentation/d/1gAKD9-_qRg4vNppzleAc7mxoUOe2aPPPEgDkIUOXqug/edit?usp=sharing)
+* [Lab](https://github.com/gavinmh/GADS12-NYC/tree/master/lecture-18)
 
 
 ### Lecture 19: Guest Lecture 1
