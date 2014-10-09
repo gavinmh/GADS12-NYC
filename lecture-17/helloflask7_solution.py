@@ -1,6 +1,4 @@
-# TODO now let's add a form that we can used to submit lyrics.
-# TODO import request from flask
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 from msd.stem import transformLyrics
 from sklearn.externals import joblib
 

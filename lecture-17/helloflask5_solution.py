@@ -19,4 +19,5 @@ def predict_artist(lyrics):
     return 'Predicted Artist: %s' % prediction
 
 if __name__ == '__main__':
+    app.debug = True
     app.run()

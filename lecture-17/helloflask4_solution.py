@@ -2,12 +2,12 @@
 # Let's train a model and save it to disk.
 # The pickle module implements a fundamental, but powerful algorithm
 # for serializing and de-serializing a Python object structure.
-# “Pickling” is the process whereby a Python object hierarchy is
-# converted into a byte stream, and “unpickling” is the inverse
+# Pickling is the process whereby a Python object hierarchy is
+# converted into a byte stream, and unpickling is the inverse
 # operation, whereby a byte stream is converted back into an object
 # hierarchy. Pickling (and unpickling) is alternatively known as
-# “serialization”, “marshalling,” [1] or “flattening”, however,
-# to avoid confusion, the terms used here are “pickling” and “unpickling”.
+# serialization, marshalling, or flattening, however,
+# to avoid confusion, the terms used here are pickling and unpickling.
 # sklearn provides a modified pickler that works better with large NumPy arrays.
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
