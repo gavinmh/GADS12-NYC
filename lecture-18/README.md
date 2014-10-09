@@ -1,3 +1,5 @@
-# Install mrec
+# Lab 18
 
-pip install mrec
+This lab requires the `mrec` module, which is not included in Anaconda. Install it with the following:
+
+`pip install mrec`
